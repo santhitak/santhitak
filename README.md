@@ -20,7 +20,8 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="santhitak" height="30" width="30" /></a>&nbsp;
 </p>
 
-<h3 align="left"> =͟͟͞͞ 🔍👨🏻‍🔧 Languages and Tools:</h3>
+<h3 align="left"> =͟͟͞͞ 👨🏻‍🔧 Languages and Tools:</h3>
+<p>some are still learning 🔍<p>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
