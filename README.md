@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/santhita-krajangwongpaisan-7372121b0" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhita-krajangwongpaisan-7372121b0" height="30" width="30" /></a>
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhita-krajangwongpaisan-7372121b0" height="30" width="30" padding="1rem"/></a>
     <a href="https://fb.com/santhitak" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santhitak" height="30" width="30" /></a>
     <a href="https://instagram.com/santhitaaa" target="blank">
