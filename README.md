@@ -8,19 +8,19 @@
 ## =͟͟͞͞ 🦊 &nbsp;About Me
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> =͟͟͞͞ 🤝 Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/santhita-krajangwongpaisan-7372121b0" target="blank" >
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhita-krajangwongpaisan-7372121b0" height="30" width="30" /></a>&nbsp;&nbsp;
     <a href="https://fb.com/santhitak" target="blank" >
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santhitak" height="30" width="30" /></a>&nbsp;&nbsp;
     <a href="https://instagram.com/santhitaaa" target="blank" >
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santhitaaa" height="30" width="30" /></a>&nbsp;&nbsp;
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santhitaaa" height="30" width="30" /></a>&nbsp;
     <a href="https://www.behance.net/santhitak" target="blank" >
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="santhitak" height="30" width="30" /></a>&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> =͟͟͞͞ ⚙️ Languages and Tools:</h3>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/>
