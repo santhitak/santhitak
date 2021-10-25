@@ -1,12 +1,21 @@
 # Hello there 👋🏻, I'm Kaem
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=santhitak)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhitak&theme=tokyonight&layout=compact)
-![santhitak's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhitak&show_icons=true&theme=tokyonight)
+![☆ - art and design](https://img.shields.io/badge/☆-art_and_design-70a4fc)
+![♡ - arcticmonkey](https://img.shields.io/badge/♡-arcticmonkey-33b8ab)
 
 ## =͟͟͞͞ 🦊 &nbsp;About Me
-Nothing comes so easily
+💻 Interesting in <b>Front-end Dev and UX/UI Design</b>.
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santhitak&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhitak&theme=tokyonight&layout=compact&langs_count=10&card_width=445"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=santhitak&theme=tokyonight"/>
+</div>
+
+<br>
 
 <h3 align="left"> =͟͟͞͞ 👨🏻‍💻 Connect with me:</h3>
 <p align="left">
