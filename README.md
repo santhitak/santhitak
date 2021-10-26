@@ -1,8 +1,7 @@
 # Hello there 👋🏻, I'm Kaem
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=santhitak)
-![ッ - frontdev](https://img.shields.io/badge/ッ-frontdev-ae7be7)
-![☆ - art and design](https://img.shields.io/badge/☆-art_and_design-70a4fc)
+![☆ - art and design](https://img.shields.io/badge/☆-art_and_design-ae7be7)
 ![♡ - arcticmonkey](https://img.shields.io/badge/♡-arcticmonkey-33b8ab)
 
 ## =͟͟͞͞ 🦊 &nbsp;About Me
