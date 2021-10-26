@@ -4,8 +4,9 @@
 ![☆ - art and design](https://img.shields.io/badge/☆-art_and_design-ae7be7)
 ![♡ - arcticmonkey](https://img.shields.io/badge/♡-arcticmonkey-33b8ab)
 
-## =͟͟͞͞ 🦊 &nbsp;About Me
-💻 Interesting in <b>WebDev (frontend mostly) and UX/UI Design</b>.
+### =͟͟͞͞ 🦊 &nbsp;About Me
+💻 <b>Information Technology</b> Student in KMITL. <br>
+💻 Interesting in <b>WebDev (mostly front-end)</b> and <b>UX/UI Design</b>.
 
 <br>
 
@@ -17,7 +18,31 @@
 
 <br>
 
-<h3 align="left"> =͟͟͞͞ 👨🏻‍💻 Connect with me:</h3>
+<h4 align="left"> =͟͟͞͞ 👨🏻‍🔧 still novice in some of these 🔍</h4>
+  <div align="center">
+    <p><samp><strong>Programming Languages</strong></samp></p>
+    <img src="/img/html.svg" height="30" />&nbsp;&nbsp;
+    <img src="/img/css.svg" height="30" />&nbsp;&nbsp;
+    <img src="/img/bootstrap.svg" height="30" />&nbsp;&nbsp;
+    <img src="/img/javascript.svg" height="30" />&nbsp;&nbsp;
+    <img src="/img/typescript.svg" height="30" />&nbsp;&nbsp;
+    <img src="/img/svelte.svg" height="30" />&nbsp;&nbsp;
+  </div>
+  <div align="center">
+    <img src="/img/react.svg" height="30" />&nbsp;&nbsp;
+    <img src="/img/php.svg" height="30" />&nbsp;&nbsp;
+    <img src="/img/c.svg" height="30" />&nbsp;&nbsp;
+    <img src="/img/python.svg" height="30" />&nbsp;&nbsp;
+  </div>
+  <br>
+  <div align="center">
+    <p><samp><strong>Tools</strong></samp><p>
+    <img src="/img/figma.svg" height="30" />&nbsp;&nbsp;
+    <img src="/img/adobe-illustrator.svg" height="30" />&nbsp;&nbsp;
+    <img src="/img/adobe-photoshop.svg" height="30" />&nbsp;&nbsp;
+</div>
+
+<h4 align="left"> =͟͟͞͞ 👨🏻‍💻 Connect with me</h4>
 <p align="left">
     <a href="https://linkedin.com/in/santhita-krajangwongpaisan-7372121b0" target="blank" >
         <img src="/img/linkedin.svg" height="30" />&nbsp;&nbsp;</a>&nbsp;&nbsp;
@@ -25,21 +50,5 @@
         <img src="/img/instagram.svg" height="30" />&nbsp;&nbsp;</a>&nbsp;
     <a href="https://www.behance.net/santhitak" target="blank" >
         <img src="/img/behance.svg" height="30" />&nbsp;&nbsp;</a>&nbsp;
+    <img src="/img/discord-santhita.svg" height="30" />
 </p>
-
-<h3 align="left"> =͟͟͞͞ 👨🏻‍🔧 Languages and Tools:&nbsp;(still novice in some of these🔍)</h3>
-  <div align="center">
-    <img src="/img/html.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/css.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/bootstrap.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/javascript.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/react.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/typescript.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/svelte.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/php.svg" height="30" />&nbsp;&nbsp;
-  </div>
-  <div align="center">
-    <img src="/img/figma.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/adobe-illustrator.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/adobe-photoshop.svg" height="30" />&nbsp;&nbsp;
-</div>
