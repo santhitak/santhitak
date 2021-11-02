@@ -5,7 +5,7 @@
 ![♡ - arcticmonkey](https://img.shields.io/badge/♡-arcticmonkey-33b8ab)
 
 ### =͟͟͞͞ 🦊 &nbsp;About Me
-💻 Pursuing degree in Information Technology.
+💻 Pursuing degree in Information Technology. <br>
 💻 Interesting in <b>WebDev (mostly front-end)</b> and <b>UX/UI Design</b>.
 
 <br>
