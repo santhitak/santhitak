@@ -44,11 +44,13 @@
 
 <h4 align="left"> =͟͟͞͞ 👨🏻‍💻 Connect with me</h4>
 <p align="left">
-    <a href="https://linkedin.com/in/santhita-krajangwongpaisan-7372121b0" target="blank" >
+    <a href="https://linkedin.com/in/santhita-krajangwongpaisan-7372121b0" target="_blank" >
         <img src="/img/linkedin.svg" height="30" />&nbsp;&nbsp;</a>&nbsp;&nbsp;
-    <a href="https://instagram.com/santhitaaa" target="blank" >
+    <a href="https://instagram.com/santhitaaa" target="_blank" >
         <img src="/img/instagram.svg" height="30" />&nbsp;&nbsp;</a>&nbsp;
-    <a href="https://www.behance.net/santhitak" target="blank" >
+    <a href="https://www.behance.net/santhitak" target="_blank" >
         <img src="/img/behance.svg" height="30" />&nbsp;&nbsp;</a>&nbsp;
+  <a href="https://dev.to/santhitak" target="_blank" >
+        <img src="/img/dev-santhitak.svg" height="30" />&nbsp;&nbsp;</a>&nbsp;&nbsp;
     <img src="/img/discord-santhita.svg" height="30" />
 </p>
