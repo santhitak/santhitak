@@ -13,7 +13,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=santhitak&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhitak&theme=tokyonight&layout=compact&card_width=445"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=santhitak&theme=tokyonight"/>
 </div>
 
 <br>
