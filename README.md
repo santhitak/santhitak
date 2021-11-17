@@ -4,6 +4,14 @@
 ![☆ - art and design](https://img.shields.io/badge/☆-art_and_design-ae7be7)
 ![♡ - arcticmonkey](https://img.shields.io/badge/♡-arcticmonkey-33b8ab)
 
+<div style="display: flex;">
+<img style="border-radius: 100%; width: auto; height: 55px;" src="https://pbs.twimg.com/media/EtSfoDBXMAUePLu.jpg"/>
+<img style="border-radius: 100%; width: auto; height: 55px;" src="https://pbs.twimg.com/media/EtSfoDBXMAUePLu.jpg"/>
+<img style="border-radius: 100%; width: auto; height: 55px;" src="https://pbs.twimg.com/media/EtSfoDBXMAUePLu.jpg"/>
+<img style="border-radius: 100%; width: auto; height: 55px;" src="https://pbs.twimg.com/media/EtSfoDBXMAUePLu.jpg"/>
+<img style="border-radius: 100%; width: auto; height: 55px;" src="https://pbs.twimg.com/media/EtSfoDBXMAUePLu.jpg"/>
+</div>
+
 ### =͟͟͞͞ 🦊 &nbsp;About Me
 💻 Pursuing degree in Information Technology. <br>
 💻 Interesting in <b>WebDev (mostly front-end)</b> and <b>UX/UI Design</b>.
