@@ -24,7 +24,7 @@
 
 <br><br>
   <div display="flex">
-    <img src="https://github-readme-stats.vercel.app/api?username=santhitak&show_icons=true&theme=tokyonight" width="43.32%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=santhitak&show_icons=true&theme=tokyonight" width="43%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhitak&theme=tokyonight&layout=compact&card_width=445" width="50%" />
   </div>
 </div>
