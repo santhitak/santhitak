@@ -20,7 +20,7 @@
 <div align="center">
  💻 Currently pursuing degree in Information Technology <br>
  Interesting in <strong>Web Development (mostly front-end)</strong> and <strong>UX/UI Design</strong>, <br>
- Still practicing to be Full Stack Developer 🥸
+ Still practicing for Full-Stack 🥸
 
 <br><br>
   <div display="flex">
