@@ -32,7 +32,7 @@
 <br><br>
 
   <div align="center">
-    <h4><strong>Familiar Programming Languages</strong></h4>
+    <h3><strong>Familiar Programming Languages</strong></h3>
     <img src="/img/html.svg" height="30" />&nbsp;&nbsp;
     <img src="/img/css.svg" height="30" />&nbsp;&nbsp;
     <img src="/img/bootstrap.svg" height="30" />&nbsp;&nbsp;
