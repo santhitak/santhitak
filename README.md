@@ -31,15 +31,27 @@
 
 <br><br>
 
-  <div align="center">
-    <h3><strong>Familiar Programming Languages</strong></h3>
-    <img src="/img/html.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/css.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/bootstrap.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/react.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/javascript.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/typescript.svg" height="30" />&nbsp;&nbsp;
-    <img src="/img/svelte.svg" height="30" />&nbsp;&nbsp;
+  <div align="center" width='20%'>
+    <h3><strong>Familiar Programming Languages</strong></h3>&nbsp;&nbsp;
+    
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge)
+  </div>
+  
+  <div align="center" width='20%'>
+    <h3><strong>Familiar Framework & Libraries</strong></h3>&nbsp;&nbsp;
+
+![Ant Design](https://img.shields.io/badge/-AntDesign-%230170FE?logo=ant-design&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white&style=for-the-badge)
+![Less](https://img.shields.io/badge/less-2B4C80?logo=less&logoColor=white&style=for-the-badge)
+![MUI ](https://img.shields.io/badge/MUI-%230081CB.svg?logo=material-ui&logoColor=white&style=for-the-badge)
+![Node.js ](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white&style=for-the-badge)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D&style=for-the-badge)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?logo=styled-components&logoColor=white&style=for-the-badge)
   </div>
   <div align="center">
     <!--<img src="/img/php.svg" height="30" />&nbsp;&nbsp;
