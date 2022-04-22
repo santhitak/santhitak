@@ -59,7 +59,6 @@
     <img src="/img/c.svg" height="30" />&nbsp;&nbsp;
     <img src="/img/python.svg" height="30" />&nbsp;&nbsp;-->
   </div>
-  <br>
   <!--
   <div align="center">
     <p><samp><strong>Tools</strong></samp><p>
@@ -67,7 +66,6 @@
     <img src="/img/adobe-illustrator.svg" height="30" />&nbsp;&nbsp;
     <img src="/img/adobe-photoshop.svg" height="30" />&nbsp;&nbsp;
   </div> -->
-<br>
 <h3 align="center"> =͟͟͞͞ 💬 Let's Talk! </h3>
 <br>
 <p align="center">
