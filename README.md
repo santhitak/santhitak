@@ -20,7 +20,8 @@
 
 <div align="center">
  💻 Currently pursuing degree in Information Technology <br>
- Interesting in <strong>Web Development (mostly front-end)</strong> and <strong>UX/UI Design</strong>
+ Interesting in <b>Web Development (mostly front-end)</b> and <b>UX/UI Design</b>
+  <br> Always a <b>NEWBIE</b>!
 
 <br><br>
   <div display="flex">
