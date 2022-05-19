@@ -76,7 +76,6 @@
     <a href="https://www.behance.net/santhitak" target="_blank" >
         <img src="/img/behance.svg" height="30" />&nbsp;&nbsp;</a>&nbsp;
     <a href="https://dev.to/santhitak" target="_blank" >
-        <img src="/img/dev-santhitak.svg" height="30" />&nbsp;&nbsp;</a>&nbsp;&nbsp;
-    <img src="/img/discord-santhita.svg" height="30" />
+        <img src="/img/dev-santhitak.svg" height="30" />&nbsp;&nbsp;</a>
 </p>
 </samp>
