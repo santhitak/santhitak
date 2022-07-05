@@ -67,16 +67,3 @@
     <img src="/img/adobe-illustrator.svg" height="30" />&nbsp;&nbsp;
     <img src="/img/adobe-photoshop.svg" height="30" />&nbsp;&nbsp;
   </div> -->
-<h3 align="center"> =͟͟͞͞ 💬 Let's Talk! </h3>
-<br>
-<p align="center">
-    <a href="https://linkedin.com/in/santhita-krajangwongpaisan-7372121b0" target="_blank" >
-        <img src="/img/linkedin.svg" height="30" />&nbsp;&nbsp;</a>&nbsp;&nbsp;
-    <a href="https://instagram.com/santhitaaa" target="_blank" >
-        <img src="/img/instagram.svg" height="30" />&nbsp;&nbsp;</a>&nbsp;
-    <a href="https://www.behance.net/santhitak" target="_blank" >
-        <img src="/img/behance.svg" height="30" />&nbsp;&nbsp;</a>&nbsp;
-    <a href="https://dev.to/santhitak" target="_blank" >
-        <img src="/img/dev-santhitak.svg" height="30" />&nbsp;&nbsp;</a>
-</p>
-</samp>
