@@ -1,11 +1,7 @@
-![gifOS](os.gif)
 
-
----
 
 ## Popular Repositories
 <table>
-<tr><td><a href="https://github.com/aquasecurity/tfsec">tfsec</a></td><td>Security scanner for your Terraform code</td><td align="center" width="12%">4719 :star:</td></tr>
 <tr><td><a href="https://github.com/santhitak/mosQlick">mosQlick</a></td><td>MosQlick for Stupid Hackathon in Thailand #6</td><td align="center" width="12%">7 :star:</td></tr>
 <tr><td><a href="https://github.com/santhitak/HelloAny">HelloAny</a></td><td>can we say hello to forking anything on earth?</td><td align="center" width="12%">4 :star:</td></tr>
 <tr><td><a href="https://github.com/santhitak/lotto.th">lotto.th</a></td><td>Showcase site for ThAi lottery results checker from @rayriffy's api</td><td align="center" width="12%">1 :star:</td></tr>
