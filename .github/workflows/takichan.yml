@@ -12,8 +12,3 @@ jobs:
 
     steps:
       - uses: actions/checkout@master
-      - uses: liamg/github-profile-terminal-action@main
-        with:
-          theme: dark
-          token: ${{ secrets. GITHUB_TOKEN }}
-          extra_repo: aquasecurity/tfsec
