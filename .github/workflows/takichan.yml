@@ -1,9 +1,8 @@
 name: Checkout
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "* * * * *"
+    - cron: "5 * * * *"
 
 jobs:
   build:
