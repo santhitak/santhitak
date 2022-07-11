@@ -2,7 +2,7 @@ name: Checkout
 
 on:
   schedule:
-    - cron: "*/2 * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   build:
@@ -12,6 +12,3 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-      - uses: liamg/github-profile-terminal-action@main
-        with:
-          token: ${{ secrets.MARDYBUM }}
