@@ -9,12 +9,16 @@ but kinda wanna be <i>fullstack</i> so I'm still kick my lazy a$$ to seek and le
 ## Projects
 
 <details><summary><strong>Active</strong></summary>
+
 - [Magic 8 Ball](https://github.com/santhitak/magic-8-ball)
 - [Lotto.th](https://github.com/santhitak/lotto.th)
+
 </details>
 
 <details><summary><strong>Hacktoberfest</strong></summary>
+
 - [HelloAny](https://github.com/santhitak/HelloAny)
+
 </details>
 
 ## Stats
