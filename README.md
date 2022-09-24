@@ -22,9 +22,7 @@ but kinda wanna be <i>fullstack</i> so I'm still kick my lazy a$$ to seek and le
 </details>
 
 ## Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=santhitak&layout=compact&langs_count=10&theme=dracula)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santhitak&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 </samp>
+
+![](https://github.com/santhitak/github-stats-transparent/blob/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/santhitak/github-stats-transparent/output/generated/overview.svg)
