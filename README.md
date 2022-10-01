@@ -4,7 +4,7 @@
 
 💻 Currently pursuing degree in Information Technology (junior)<br>
 Interesting in <b>Web Development (mostly front-end)</b> and <b>UX/UI Design</b><br>
-but kinda wanna be <i>fullstack</i> so I'm still kick my lazy a$$ to seek and learn everyday!
+I sorta wanna be a <i>fullstack</i> so I'm still kicking my lazy a$$ to code everyday!
 
 ## Projects
 
