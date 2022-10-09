@@ -18,6 +18,7 @@ I sorta wanna be a <i>fullstack</i> so I'm still kicking my lazy a$$ to code eve
 <details><summary><strong>Hacktoberfest</strong></summary>
 
 - [HelloAny](https://github.com/santhitak/HelloAny)
+- [Multilink Opener](https://github.com/santhitak/multilink-opener)
 
 </details>
 
