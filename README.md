@@ -11,7 +11,6 @@ I sorta wanna be a <i>fullstack</i> so I'm still kicking my lazy a$$ to code eve
 <details><summary><strong>Active</strong></summary>
 
 - [Magic 8 Ball](https://github.com/santhitak/magic-8-ball)
-- [Lotto.th](https://github.com/santhitak/lotto.th)
 
 </details>
 
