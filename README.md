@@ -2,8 +2,8 @@
 
 ## Hi there, I'm Kaem
 
-💻 Currently pursuing degree in Information Technology (junior)<br>
-Interesting in <b>Web Development (mostly front-end)</b> and <b>UX/UI Design</b><br>
+💻 Currently pursuing degree in Information Technology (junior)<br/>
+Interesting in <b>Web Development (mostly front-end)</b> <br/>
 I sorta wanna be a <i>fullstack</i> so I'm still kicking my lazy a$$ to code everyday!
 
 ## Projects
