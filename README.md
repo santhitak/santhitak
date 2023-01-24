@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Kaem
 
-💻 Currently pursuing degree in Information Technology (junior)<br/>
+💻 Currently pursuing degree in Information Technology <br/>
 Interesting in <b>Web Development (mostly front-end)</b> <br/>
 I sorta wanna be a <i>fullstack</i> so I'm still kicking my lazy a$$ to code everyday!
 
