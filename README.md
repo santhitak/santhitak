@@ -1,6 +1,6 @@
 <samp>
 
-## Hi there, I'm Kaem
+## Hi there
 
 💻 Full Stack Developer
 
